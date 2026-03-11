@@ -1,0 +1,14 @@
+/Users/user/Documents/1. engineer/1. training/DotNet/1.1. Music Trivia-Chords/ChordsTrivia/bin/Debug/net10.0/ChordsTrivia
+/Users/user/Documents/1. engineer/1. training/DotNet/1.1. Music Trivia-Chords/ChordsTrivia/bin/Debug/net10.0/ChordsTrivia.deps.json
+/Users/user/Documents/1. engineer/1. training/DotNet/1.1. Music Trivia-Chords/ChordsTrivia/bin/Debug/net10.0/ChordsTrivia.runtimeconfig.json
+/Users/user/Documents/1. engineer/1. training/DotNet/1.1. Music Trivia-Chords/ChordsTrivia/bin/Debug/net10.0/ChordsTrivia.dll
+/Users/user/Documents/1. engineer/1. training/DotNet/1.1. Music Trivia-Chords/ChordsTrivia/bin/Debug/net10.0/ChordsTrivia.pdb
+/Users/user/Documents/1. engineer/1. training/DotNet/1.1. Music Trivia-Chords/ChordsTrivia/obj/Debug/net10.0/ChordsTrivia.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/1. engineer/1. training/DotNet/1.1. Music Trivia-Chords/ChordsTrivia/obj/Debug/net10.0/ChordsTrivia.AssemblyInfoInputs.cache
+/Users/user/Documents/1. engineer/1. training/DotNet/1.1. Music Trivia-Chords/ChordsTrivia/obj/Debug/net10.0/ChordsTrivia.AssemblyInfo.cs
+/Users/user/Documents/1. engineer/1. training/DotNet/1.1. Music Trivia-Chords/ChordsTrivia/obj/Debug/net10.0/ChordsTrivia.csproj.CoreCompileInputs.cache
+/Users/user/Documents/1. engineer/1. training/DotNet/1.1. Music Trivia-Chords/ChordsTrivia/obj/Debug/net10.0/ChordsTrivia.dll
+/Users/user/Documents/1. engineer/1. training/DotNet/1.1. Music Trivia-Chords/ChordsTrivia/obj/Debug/net10.0/refint/ChordsTrivia.dll
+/Users/user/Documents/1. engineer/1. training/DotNet/1.1. Music Trivia-Chords/ChordsTrivia/obj/Debug/net10.0/ChordsTrivia.pdb
+/Users/user/Documents/1. engineer/1. training/DotNet/1.1. Music Trivia-Chords/ChordsTrivia/obj/Debug/net10.0/ChordsTrivia.genruntimeconfig.cache
+/Users/user/Documents/1. engineer/1. training/DotNet/1.1. Music Trivia-Chords/ChordsTrivia/obj/Debug/net10.0/ref/ChordsTrivia.dll
